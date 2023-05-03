@@ -1,0 +1,11 @@
+# TeamsFx files
+node_modules
+/.fx/*.env
+/.fx/*.userdata
+.DS_Store
+/.fx/configs/localSettings.json
+/.fx/states/*.userdata
+**/.env.teamsfx.local
+.fx/configs/config.local.json
+.fx/states/state.local.json
+build
